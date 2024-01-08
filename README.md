@@ -12,5 +12,5 @@ Connpass のイベント参加者の名札を生成するツール群
 bash connpass_list.sh ~/Downloads/event_xxxxxx_participants.csv
 ```
 
-+ コピーした[スプレッドシート](https://docs.google.com/spreadsheets/d/1H97mKk4GdKG1QfOXUmTIP38sGZ7rmC7n4twQ2T__OEM/edit#gid=267768504) の `参加者リスト` シートにに貼り付ける
++ コピーした[スプレッドシート](https://docs.google.com/spreadsheets/d/1H97mKk4GdKG1QfOXUmTIP38sGZ7rmC7n4twQ2T__OEM/edit#gid=267768504) の `参加者リスト` シートに貼り付ける
 + スプレッドシートの `印刷用シート` シートを印刷する
